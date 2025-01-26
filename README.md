@@ -29,66 +29,33 @@ For Software:
 - [#include]
 - [Gemini API]
 
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+![Screenshot1]![SC1](https://github.com/user-attachments/assets/d4f3335f-b7c6-4396-8fbb-7db8f1664948)
+hot1])
+HOME PAGE
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
+![Screenshot2![SC2](https://github.com/user-attachments/assets/ab868f7a-e0d8-48ac-81b4-91e95e75a2c1)
+](Add screenshot 2 here with proper name)
+SPACE WHERE USER CAN UPLOAD WASTE MATERIALS THAT ARE TO BE RECREATED.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
+![Screenshot3](Ad![SC3](https://github.com/user-attachments/assets/12744c7d-54a5-4a74-933e-cfbb413b21ad)
+d screenshot 3 here with proper name)
+USER CAN PROVIDE THEIR IDEAS AND DETAILS WITHUS.
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 Add caption explaining your workflow
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-Explain what the video demonstrates
+[https://drive.google.com/file/d/1jw8wSket5pZLwQMWxo1d341YT3sMVPlx/view?usp=sharing]
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [LEKSHMI B]: [FRONTEND DEVELOPER]
+- [MIYA]: [FRONTEND DEVELOPER]
+- [ARSHA A]: [BACKEND DEVELOPER]
 
 ---
 Made with ❤ at TinkerHub
